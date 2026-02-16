@@ -1,6 +1,8 @@
-Personal Information Manager
-Project Overview and Objectives
-Overview
+## Personal Information Manager
+
+Project Overview and Objectives:
+
+## Overview
 
 The Personal Information Manager is a console-based Python application developed to collect, validate, process, and display user personal information in a structured format.
 
@@ -8,7 +10,7 @@ The application demonstrates fundamental programming concepts including modular 
 
 This project serves as an introductory-level implementation of structured Python programming.
 
-Objectives
+## Objectives
 
 The main objectives of this project were:
 
